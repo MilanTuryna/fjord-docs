@@ -8,6 +8,12 @@ Webový systém určený pro tvoření originálních webů rychleji, efektivně
 
 **Použité backend technologie:** PHP (Nette), MySQL, JSON
 
+### TODO:
+
+Udělat vlastní implementaci pomocí javascriptu (i serveru) pro kontrolu a validaci speciálních inputů.
+Například v případě, že ve formuláři bude input pro zadání barva, které ve své logice povoluje i použití gradientů či speciálních zápisů (krom běžného HEX), aby šel vybrat způsob (pomocí radiobuttonu) kterým chceme zapisovat a ten validatovat.
+
+
 ### Co je cílem?
 -   Vytvoření webového systému s rychlým nasazením na weby různorodých zájmů a funkcionalit
 -   Webový systém s podporou aktualizací a rozšíření
